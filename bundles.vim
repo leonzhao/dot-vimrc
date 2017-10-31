@@ -102,4 +102,9 @@ Bundle 'Lokaltog/vim-distinguished'
 Bundle 'chriskempson/vim-tomorrow-theme'
 Bundle 'fisadev/fisa-vim-colorscheme'
 
+"--------------
+" Solidity
+" -------------
+Bundle 'tomlion/vim-solidity'
+
 filetype plugin indent on     " required!
