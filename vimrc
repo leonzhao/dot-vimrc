@@ -13,13 +13,13 @@ syntax on
 " Vim UI
 "--------
 " color scheme
-set background=dark
-color solarized
+" set background=dark
+"color solarized
 
 " highlight current line
-au WinLeave * set nocursorline nocursorcolumn
-au WinEnter * set cursorline cursorcolumn
-set cursorline cursorcolumn
+"au WinLeave * set nocursorline nocursorcolumn
+" au WinEnter * set cursorline cursorcolumn
+" set cursorline cursorcolumn
 
 " search
 set incsearch
