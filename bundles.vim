@@ -107,4 +107,9 @@ Bundle 'fisadev/fisa-vim-colorscheme'
 " -------------
 Bundle 'tomlion/vim-solidity'
 
+"--------------
+" vim-toml
+"--------------
+Bundle 'cespare/vim-toml'
+
 filetype plugin indent on     " required!
